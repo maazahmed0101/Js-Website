@@ -103,5 +103,5 @@ header {
 img{
     aspect-ratio: 1/0.8;
     object-fit: cover;
-    width: 600px;
+    width: 100vw;
 }
