@@ -1,2 +1,2 @@
 # Js-Website
-Js Through Ecomerse Website
+https://jsthrough.netlify.app/
